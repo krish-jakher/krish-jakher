@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krish-jakher&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -20,20 +20,20 @@
 
 🤖 Passionate about **Artificial Intelligence, Machine Learning, and Software Development**
 
-💡 Love building practical and creative projects
+💡 Love building practical projects that solve real-world problems
 
 📸 Freelance photographer specializing in **Black & White Photography**
 
-🌱 Currently learning **React, TypeScript, Firebase & AI Integration**
+🌱 Currently learning **React, Full-Stack Development, and AI Integration**
 
-⚡ Goal: Build impactful AI-powered products
+⚡ Goal: Build impactful AI-powered products and become a skilled software engineer
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,react,firebase,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,git,github,vscode,firebase,react" />
 </p>
 
 ---
@@ -41,9 +41,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=krish-jakher&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-<img src="https://streak-stats.demolab.com?user=krish-jakher&theme=tokyonight&hide_border=true" height="180"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -51,16 +53,36 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krish-jakher&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=krish-jakher&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
+
+---
+
+## 📌 Featured Projects
+
+### 🌐 Language Translation Tool
+
+A modern multilingual translator with clean UI, translation history, and Google Authentication.
+
+### 🤖 AI & Machine Learning Projects
+
+Experiments and projects exploring machine learning concepts and AI applications.
+
+### 📚 Digital Literacy Awareness Project
+
+Helping users understand and improve digital literacy through technology.
+
+### 💻 Programming Practice & Case Studies
+
+Problem-solving, coding challenges, and real-world programming implementations.
 
 ---
 
@@ -72,29 +94,17 @@
 
 🔹 Firebase Authentication
 
-🔹 Machine Learning
+🔹 Machine Learning Fundamentals
 
-🔹 Generative AI
+🔹 Generative AI Applications
 
 ---
 
-## 📌 Featured Projects
+## 🏆 GitHub Trophies
 
-### 🌐 Language Translation Tool
-
-A multilingual translator with modern UI, translation history, and Google Authentication.
-
-### 🤖 AI & Machine Learning Projects
-
-Exploring machine learning concepts and AI applications.
-
-### 📚 Digital Literacy Awareness Project
-
-Technology-driven awareness and educational initiatives.
-
-### 💻 Programming Practice
-
-Problem-solving, coding challenges, and real-world implementations.
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
@@ -106,7 +116,7 @@ Problem-solving, coding challenges, and real-world implementations.
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:krishjakher14041@gmail.com">
+<a href="mailto:krish.25bce11058@vitbhopal.ac.in">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
@@ -121,5 +131,5 @@ Problem-solving, coding challenges, and real-world implementations.
 ---
 
 <p align="center">
-  <i>"Keep Learning • Keep Building • Keep Growing"</i>
+  <i>"Keep learning. Keep building. Keep growing."</i>
 </p>
