@@ -20,20 +20,20 @@
 
 🤖 Passionate about **Artificial Intelligence, Machine Learning, and Software Development**
 
-💡 Love building practical projects that solve real-world problems
+💡 Love building practical and creative projects
 
 📸 Freelance photographer specializing in **Black & White Photography**
 
-🌱 Currently learning **React, Full-Stack Development, and AI Integration**
+🌱 Currently learning **React, TypeScript, Firebase & AI Integration**
 
-⚡ Goal: Build impactful AI-powered products and become a skilled software engineer
+⚡ Goal: Build impactful AI-powered products
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,git,github,vscode,firebase,react" />
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,react,firebase,git,github,vscode" />
 </p>
 
 ---
@@ -41,11 +41,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=krish-jakher&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=krish-jakher&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=krish-jakher&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=krish-jakher&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -58,31 +56,11 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/krish-jakher/krish-jakher/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<img src="https://github-profile-trophy.vercel.app/?username=krish-jakher&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
-
----
-
-## 📌 Featured Projects
-
-### 🌐 Language Translation Tool
-
-A modern multilingual translator with clean UI, translation history, and Google Authentication.
-
-### 🤖 AI & Machine Learning Projects
-
-Experiments and projects exploring machine learning concepts and AI applications.
-
-### 📚 Digital Literacy Awareness Project
-
-Helping users understand and improve digital literacy through technology.
-
-### 💻 Programming Practice & Case Studies
-
-Problem-solving, coding challenges, and real-world programming implementations.
 
 ---
 
@@ -94,17 +72,29 @@ Problem-solving, coding challenges, and real-world programming implementations.
 
 🔹 Firebase Authentication
 
-🔹 Machine Learning Fundamentals
+🔹 Machine Learning
 
-🔹 Generative AI Applications
+🔹 Generative AI
 
 ---
 
-## 🏆 GitHub Trophies
+## 📌 Featured Projects
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=krish-jakher&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+### 🌐 Language Translation Tool
+
+A multilingual translator with modern UI, translation history, and Google Authentication.
+
+### 🤖 AI & Machine Learning Projects
+
+Exploring machine learning concepts and AI applications.
+
+### 📚 Digital Literacy Awareness Project
+
+Technology-driven awareness and educational initiatives.
+
+### 💻 Programming Practice
+
+Problem-solving, coding challenges, and real-world implementations.
 
 ---
 
@@ -116,7 +106,7 @@ Problem-solving, coding challenges, and real-world programming implementations.
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:krish.25bce11058@vitbhopal.ac.in">
+<a href="mailto:krishjakher14041@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
@@ -131,5 +121,5 @@ Problem-solving, coding challenges, and real-world programming implementations.
 ---
 
 <p align="center">
-  <i>"Keep learning. Keep building. Keep growing."</i>
+  <i>"Keep Learning • Keep Building • Keep Growing"</i>
 </p>
